@@ -1,28 +1,35 @@
+
 # Pakistan_REE_Market_Analysis_2025
 
-## 📊 Project Summary
+## 📘 Project Overview
+**The New Frontier: Analyzing Pakistan's Potential to Reshape the Global Rare Earth Elements Market**  
+This report evaluates Pakistan’s strategic and economic potential to enter the global Rare Earth Elements (REE) market. It assesses global supply chains, China’s dominance, geological reserves in Pakistan, SWOT analysis, and policy recommendations.
 
-This strategic report evaluates Pakistan’s emerging role in the global Rare Earth Elements (REE) market using global data insights, economic modeling, and strategic frameworks.
+## 📄 Report File
+👉 [Download Report (PDF)](https://github.com/HaiderAlikhan417/Pakistan_REE_Market_Analysis_2025/blob/main/Pakistan_Rare_Earth_Elements_Market_Analysis_2025.pdf)
 
-## 📄 Contents
+## 📊 Key Sections
+- Global REE Supply & Demand Trends (2024)
+- China's Market Dominance and Global Response
+- Geological Assessment of Pakistan
+- SWOT Analysis
+- Economic and Strategic Impact
+- Conflict Risks and Governance Issues
+- Policy Recommendations and Production Timeline
 
-- Global Supply & Demand Overview  
-- China's Market Dominance  
-- Pakistan’s Geological Potential  
-- SWOT Analysis  
-- Strategic Recommendations  
-- Geopolitical Leverage  
-- Risk Assessments  
-- Projected Impact Timeline
+## 🎯 Purpose
+Created as part of MSc International Business with Data Analytics to demonstrate advanced strategic analysis, economic interpretation, and research presentation.
 
-## 📁 File
-
-- [`Pakistan_REE_Market_Analysis_2025.pdf`](Pakistan_REE_Market_Analysis_2025.pdf)
-
-## 🗂️ Data Source
-
-- World Bank Open Data: [https://data.worldbank.org](https://data.worldbank.org)
+## 📚 Data Sources
+- World Bank Open Data  
+- USGS Mineral Resources  
+- International Energy Agency  
+- Academic and Industry Reports
 
 ## 🔖 License
-
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+📅 Last Updated: July 2025  
+✍️ Author: Haider Ali Khan
